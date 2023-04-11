@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-image: url('Imagens/Foto35.png');
+    background-image: url('Foto35.png');
     background-size: cover;
     backdrop-filter: blur(10px);
 }
